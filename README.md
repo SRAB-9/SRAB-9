@@ -6,11 +6,7 @@
 Someone who likes tinkering with random stuff, currently I don't make things, but I'm hoping to change that soon :)
 
 
-<div style="display: flex; flex-direction: row;">
-  <a align="center" href="https://discord.com/users/737340777709043802">
-    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/737340777709043802?theme=dark&animated=true&hideDiscrim=true&borderRadius=30px&hideStatus=true"
-      </a>
-</div>  
+[![Discord Presence](https://lanyard.cnrad.dev/api/737340777709043802)](https://discord.com/users/737340777709043802) 
 
 
 ### Github stats
