@@ -15,7 +15,6 @@ Someone who likes tinkering with random stuff, currently I don't make things, bu
   
   [![ GitHub stats](https://github-readme-stats.vercel.app/api?username=SRAB-9)](https://github.com/MrKrishnaAgarwal/readme-components-github)
  [![Profile views](https://gpvc.arturio.dev/[SRAB-9])
-  [![](https://img.shields.io/badge/Code-langname-informational?style=flat&logo=logoname&logoColor=white&color=brightgreen)]
 
 
 ### Github stats
