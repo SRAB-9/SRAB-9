@@ -13,8 +13,9 @@ Someone who likes tinkering with random stuff, currently I don't make things, bu
 </div>  
 
   
-  ![status](https://api.statusbadges.me/badge/status/737340777709043802) ![playing](https://api.statusbadges.me/badge/playing/737340777709043802) 
-  ![vscode](https://api.statusbadges.me/badge/vscode/737340777709043802) ![intellij](https://api.statusbadges.me/badge/intellij/737340777709043802)
+  [![ GitHub stats](https://github-readme-stats.vercel.app/api?username=SRAB-9)](https://github.com/MrKrishnaAgarwal/readme-components-github)
+ [![Profile views](https://gpvc.arturio.dev/[SRAB-9])
+  [![](https://img.shields.io/badge/Code-langname-informational?style=flat&logo=logoname&logoColor=white&color=brightgreen)]
 
 
 ### Github stats
@@ -22,15 +23,15 @@ Someone who likes tinkering with random stuff, currently I don't make things, bu
 <table align="center">
 	<tr>
 		<td width="1200px">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=nichind&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" draggable="false">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=SRAB-9&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" draggable="false">
 		</td>
 		<td width="1200px">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nichind&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" draggable="false">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRAB-9&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" draggable="false">
 		</td>
 	</tr>
 </table>
 
-<img src="https://komarev.com/ghpvc/?username=nichind&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=SRAB-9&color=brightgreen" alt="watching_count" />
 
   <!--
 **srab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
