@@ -12,8 +12,7 @@ Someone who likes tinkering with random stuff, currently I don't make things, bu
       </a>
 </div>  
 
-  
-  [![ GitHub stats](https://github-readme-stats.vercel.app/api?username=SRAB-9)](https://github.com/MrKrishnaAgarwal/readme-components-github)
+
  [![Profile views](https://gpvc.arturio.dev/[SRAB-9])
 
 
