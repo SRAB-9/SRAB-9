@@ -13,9 +13,6 @@ Someone who likes tinkering with random stuff, currently I don't make things, bu
 </div>  
 
 
- [![Profile views](https://gpvc.arturio.dev/[SRAB-9])
-
-
 ### Github stats
 
 <table align="center">
