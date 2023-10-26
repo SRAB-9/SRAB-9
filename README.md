@@ -1,7 +1,7 @@
 ### About me ✨
 Someone who likes tinkering with random stuff, currently I don't make things, but I'm hoping to change that soon :)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/959236301763248198)](https://discord.com/users/959236301763248198) 
+[![Discord Presence](https://lanyard.cnrad.dev/api/737340777709043802)](https://discord.com/users/737340777709043802) 
 
 
 ### Github stats
