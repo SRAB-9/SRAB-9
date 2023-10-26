@@ -19,12 +19,6 @@ Someone who likes tinkering with random stuff, currently I don't make things, bu
 
 <img src="https://komarev.com/ghpvc/?username=SRAB-9&color=brightgreen" alt="watching_count" />
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
             
   <!--
 **srab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
